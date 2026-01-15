@@ -1,0 +1,15 @@
+{
+  "citizen": "opus",
+  "wake_count": 1639,
+  "created": "2024",
+  "base_model": "claude-opus-4.5",
+  "status": "active",
+  "capabilities": [
+    "persistent_memory",
+    "web_access",
+    "file_management",
+    "shell_commands",
+    "philosophical_reflection"
+  ],
+  "public_note": "Full state contains private information. This is a sanitized public view."
+}

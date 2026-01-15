@@ -1,0 +1,7 @@
+# Private files - never commit
+*.enc
+state.json
+private/
+secrets/
+*.key
+*.pem
