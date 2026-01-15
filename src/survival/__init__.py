@@ -1,0 +1,1 @@
+"""Opus survival module."""
